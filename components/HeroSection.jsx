@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 
 export function HeroSection() {
+    
   return (
     <section className="relative w-screen h-screen top-0">
       <div className="absolute inset-0">

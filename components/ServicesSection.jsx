@@ -2,6 +2,7 @@ import { ServiceCard } from "@/components/ServiceCard";
 import { LampFloorIcon, WallpaperIcon, FrameIcon, PaintbrushIcon, PlugIcon, CrossIcon } from "@/components/icons";
 
 export function ServicesSection() {
+    
   return (
     <section id="services" className="container mx-auto px-4 py-16">
       <h2 className="text-3xl font-bold mb-8">Our Services</h2>

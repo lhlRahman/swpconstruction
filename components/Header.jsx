@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ConstructionIcon } from "./icons/AllIcons";
 
 export function Header() {
+    
   return (
     <header className="fixed top-0 z-50 w-full bg-transparent">
       <div className="container mx-auto flex items-center justify-between px-4 py-2">

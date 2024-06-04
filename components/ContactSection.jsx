@@ -5,6 +5,7 @@ import { FormField } from "@/components/FormField";
 import { MapPinIcon, MailIcon, InstagramIcon, PhoneIcon } from "@/components/icons/index";
 
 export function ContactSection() {
+    
   return (
     <section id="contact" className="container mx-auto px-4 py-16">
       <h2 className="text-3xl font-bold mb-8">Contact Us</h2>

@@ -3,6 +3,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 
 export function FormField({ id, label, type, as = "input", ...props }) {
+    
   const Component = as === "input" ? Input : Textarea;
   return (
     <div className="mb-4">

@@ -1,4 +1,5 @@
 export function ServiceCard({ imgSrc, altText, icon, title, description }) {
+    
     return (
       <div className="bg-blue-50 p-6 rounded-lg shadow-md">
         <img src={imgSrc} alt={altText} className="rounded-lg mb-4" />

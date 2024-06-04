@@ -1,4 +1,5 @@
 export function ContactInfo({ icon, text }) {
+    
     return (
       <div className="mb-4">
         {icon}
