@@ -5,7 +5,7 @@ import { FormField } from "@/components/FormField";
 import { MapPinIcon, MailIcon, InstagramIcon, PhoneIcon } from "@/components/icons/index";
 
 export function ContactSection() {
-    
+
   return (
     <section id="contact" className="container mx-auto px-4 py-16">
       <h2 className="text-3xl font-bold mb-8">Contact Us</h2>
@@ -13,7 +13,7 @@ export function ContactSection() {
         <div>
           <h3 className="text-xl font-bold mb-4">Get in Touch</h3>
           <p className="text-gray-600 mb-4">
-            Have a question or ready to start your renovation project? Fill out the form below, and we'll get back
+            Have a question or ready to start your renovation project? Fill out the form below, and we&apos;ll get back
             to you as soon as possible.
           </p>
           <ContactInfo

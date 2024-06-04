@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 
 export function HeroSection() {
-    
+
   return (
     <section className="relative w-screen h-screen top-0">
       <div className="absolute inset-0">
@@ -16,7 +16,7 @@ export function HeroSection() {
           Professional Renovation Services
         </h1>
         <p className="text-lg mb-8 text-center">
-          Transform your space with our expert renovation services. From flooring to painting, we've got you covered.
+          Transform your space with our expert renovation services. From flooring to painting, we&apos;ve got you covered.
         </p>
         <Button>Get a Quote</Button>
       </div>
